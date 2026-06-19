@@ -1,0 +1,6 @@
+{
+  "name": "Contador de Calorias por Foto",
+  "description": "Analise fotos de pratos de comida para estimar calorias, macronutrientes, e receber conselhos e sugestões de nutrientes com Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
